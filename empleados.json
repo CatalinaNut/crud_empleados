@@ -1,0 +1,9 @@
+[
+    {"nombre": "Alan",
+      "apellido": "Brito",
+    "sueldo": "500000"},
+
+    {"nombre": "Maria",
+    "apellido":"Dolores", 
+    "sueldo": "600000" }
+]
